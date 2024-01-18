@@ -1,0 +1,25 @@
+p{
+    color: chocolate;
+}
+
+body {
+    align-items: center;
+    text-align: center;
+    justify-content: center;
+    height: 100vh;
+    margin: 0;
+}
+
+#titulo{
+    color: rebeccapurple;
+}
+
+#botonMensajero{
+    background-color: aquamarine;
+    color: blueviolet;
+}
+
+.encabezado{
+    color: brown;
+}
+
